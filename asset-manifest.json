@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.346b467a.css",
-    "main.js": "/static/js/main.615da9b6.js",
-    "index.html": "/index.html",
-    "main.346b467a.css.map": "/static/css/main.346b467a.css.map",
-    "main.615da9b6.js.map": "/static/js/main.615da9b6.js.map"
+    "main.css": "/walking-times-heatmap/static/css/main.346b467a.css",
+    "main.js": "/walking-times-heatmap/static/js/main.36d11b56.js",
+    "index.html": "/walking-times-heatmap/index.html",
+    "main.346b467a.css.map": "/walking-times-heatmap/static/css/main.346b467a.css.map",
+    "main.36d11b56.js.map": "/walking-times-heatmap/static/js/main.36d11b56.js.map"
   },
   "entrypoints": [
     "static/css/main.346b467a.css",
-    "static/js/main.615da9b6.js"
+    "static/js/main.36d11b56.js"
   ]
 }
